@@ -484,7 +484,7 @@ body {
     row-gap: 30px;
   }
   .sep {
-    margin: 90px auto 60px;
+    margin: 150px auto 60px;
     width: 20%;
     border-top: 5px dotted gray;
   }
@@ -557,7 +557,7 @@ body {
     margin-top: 120px;
   }
   .sep {
-    margin: 130px auto 70px;
+    margin: 30px auto 70px;
     width: 20%;
     border-top: 5px dotted gray;
   }
@@ -592,4 +592,22 @@ body {
     grid-column-start: 2;
     grid-column-end: 3;
   }
+}
+.container {
+  width : 80%;
+  height : 40%;
+}
+.text-center .section-heading {
+margin: 0px;
+}
+.food-name{
+  margin : 0px;
+  font-size: 1.2em;
+}
+.food-rating{
+  margin: 0px;
+  padding-top: 0px;
+}
+.section {
+  margin-top: 7em;;
 }
